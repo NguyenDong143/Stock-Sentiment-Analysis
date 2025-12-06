@@ -391,24 +391,6 @@ Powered by [Yahoo Finance](https://finance.yahoo.com/) | Built with ❤️ using
 
 </div>
 
-## ⚠️ Disclaimer
-
-<div align="center">
-
-```diff
-! IMPORTANT: Educational Purpose Only
-! 
-! This application is designed for educational and informational purposes.
-! It does NOT constitute financial advice or investment recommendations.
-! 
-! ⚠️  Always conduct your own research
-! ⚠️  Consult qualified financial advisors
-! ⚠️  Understand the risks before investing
-! ⚠️  Past performance ≠ Future results
-```
-
-</div>
-
 ## 🔮 Roadmap & Future Enhancements
 
 <table>
