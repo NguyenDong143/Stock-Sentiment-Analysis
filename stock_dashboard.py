@@ -35,7 +35,7 @@ logging.basicConfig(
 
 # Cấu hình khóa API OpenAI và Alpha Vantage
 openai.api_key = ''
-alpha_vantage_key = "V9JY2HAHDEH9BNHS" #có thể link hoạt tạo mã mới khi hết hạn
+alpha_vantage_key = "" #có thể link hoạt tạo mã mới khi hết hạn
 
 # Cấu hình ứng dụng
 st.set_page_config(
