@@ -17,8 +17,6 @@ This project uniquely combines **financial news sentiment (PhoBERT + FinBERT)** 
 * Designed a complete workflow: **ingestion → processing → feature engineering → serving**
 * Reduced processing time by **~30%** through pipeline optimization
 * Enabled **near real-time data updates** for analytics and visualization
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/98ef06ee-c123-4818-820e-709898c0864e" />
-
 ---
 
 ## 🧠 Novelty & Technical Contribution
@@ -41,10 +39,8 @@ This project goes beyond traditional stock analysis by combining **NLP** and **t
 
 ## 🏗️ System Architecture
 
-![System Architecture](./images/architecture.png)
-
 ```text
-Data Sources (Yahoo Finance, Investing.com)
+Data Sources (Yahoo Finance, Investing.com, vneconomy.com, cafeF.com)
         ↓
 Data Ingestion (API, Web Scraping)
         ↓
@@ -60,8 +56,7 @@ Serving Layer (Streamlit Dashboard)
 ---
 
 ## 🔄 Data Pipeline Flow
-
-![Data Pipeline Flow](./images/pipeline.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/98ef06ee-c123-4818-820e-709898c0864e" />
 
 ```text
 News / Market APIs
