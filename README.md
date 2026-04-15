@@ -17,6 +17,8 @@ Designed to handle large-scale structured and unstructured datasets (130K+ recor
 ---
 
 ## 🏗 System Architecture
+<img width="459" height="172" alt="{F5FC556B-F740-4846-8E49-A717B3046CAE}" src="https://github.com/user-attachments/assets/91f52a5a-764e-49d0-9f10-283a25aecdba" />
+
 Data Sources (Yahoo Finance, Investing.com)
         ↓
 Data Ingestion (API, Scraping)
@@ -30,6 +32,7 @@ Processed Data Storage
 Serving Layer (Streamlit Dashboard)
 
 ---
+<img width="455" height="255" alt="{0C0034DB-080D-45A4-B3A2-9FC2F463534C}" src="https://github.com/user-attachments/assets/9ddbb6da-ab44-4c75-9b01-6396a36c9958" />
 
 ## 🔧 Core Components
 
